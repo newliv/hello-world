@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+mysql-connector-python
+# configparser is part of the Python standard library for versions 3.2+
+# No need to list it explicitly if targeting Python 3.2 or newer.
+# If older Python versions were a target, it would be 'configparser'.
